@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="com.claude.session-manager" url="https://github.com/Findstarer/claude-code-idea-plugin-releases/releases/download/v1.7.19/claude-session-manager-1.7.19.zip" version="1.7.19">
+  <plugin id="com.claude.session-manager" url="https://github.com/Findstarer/claude-code-idea-plugin-releases/releases/download/v1.7.20/claude-session-manager-1.7.20.zip" version="1.7.20">
     <idea-version since-build="241" until-build="261.*"/>
     <name>Claude Session Manager</name>
     <description>Graphical session management for Claude Code CLI.</description>
